@@ -160,3 +160,17 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+#amigo-sorteado {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+  }
